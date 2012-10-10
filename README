@@ -1,0 +1,4 @@
+Aqui se encuentran:
+-> una clase con un método púbico que reciba un perimetro de una circunferencia, y devuelva el radio
+-> pruebas unitarias para dicha clase
+-> un Rakefile
